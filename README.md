@@ -9,7 +9,7 @@ Currently, I'm exploring new technologies and building innovative projects. 🚀
 🎯 **Focused on creating impactful projects and improving problem-solving skills**  
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikeya-tiwari/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikeya-tiwari-776a8027a/)  
 
 ---
 
