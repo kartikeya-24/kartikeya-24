@@ -1,13 +1,15 @@
 # 💫 About Me:
-Hi there! I'm **Harsh Agarwal**, a passionate web developer and problem solver. I love working on **DSA, Web Development, and Machine Learning**. Currently, I'm exploring new technologies and contributing to open-source projects. 🚀
+Hi there! I'm **Kartikeya Tiwari**, a passionate web developer and problem solver.  
+I love working on **DSA, Web Development, and Machine Learning**.  
+Currently, I'm exploring new technologies and building innovative projects. 🚀
 
-💻 **Web Developer Intern at NULLSHALA**  
-🏆 **4-star Python Coder on HackerRank**  
+💻 **Computer Engineering Student, Section A**  
+🏆 **Active Competitive Programmer (HackWithInfy, Coding Contests)**  
 🌱 **Learning and mastering full-stack development**  
-🎯 **Building exciting projects and improving problem-solving skills**  
+🎯 **Focused on creating impactful projects and improving problem-solving skills**  
 
 ## 🌐 Connect with Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harsh-agarwal-2300642a7/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kartikeya-tiwari/)  
 
 ---
 
@@ -39,9 +41,9 @@ Hi there! I'm **Harsh Agarwal**, a passionate web developer and problem solver. 
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=agrwalh&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=agrwalh&theme=omni&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=agrwalh&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=KartikeyaTiwari&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=KartikeyaTiwari&theme=omni&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=KartikeyaTiwari&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔥 Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
