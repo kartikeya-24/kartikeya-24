@@ -4,7 +4,7 @@ I love working on **Data Structures & Algorithms, Web Development, and Machine L
 Currently, I’m exploring cutting-edge tech and building impactful projects. 🚀
 
 💻 **Computer Engineering Student, Section A**  
-🏆 **Competitive Programmer (HackWithInfy, Coding Contests)**  
+🏆 **Competitive Programmer (HackWithInfy,Adobe India Hackathon, Coding Contests)**  
 🌱 **Learning & mastering full-stack development**  
 🎯 **Focused on creating impactful projects and improving problem-solving skills**  
 
